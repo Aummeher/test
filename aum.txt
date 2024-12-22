@@ -1,3 +1,6 @@
 Hii I'm Aum
 i want to become a web developer
 thats why i am learning the following languages
+html 
+css
+js
